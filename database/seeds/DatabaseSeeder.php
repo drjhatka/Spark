@@ -100,7 +100,7 @@ class DatabaseSeeder extends Seeder
             //'10206'=>'Share Capital',
             //'10207'=>'Share Capital',
             //'10401'=>'',
-            '10501'=>'';
+            //'10501'=>'';
 
         ];
         //$faker = Faker::create();
